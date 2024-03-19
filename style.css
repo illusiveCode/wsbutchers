@@ -200,7 +200,9 @@ body {
   display: flex;
   object-fit: cover;
 }
-
+.brand {
+  color: var(--neutral);
+}
 a {
   text-decoration: none;
   color: var(--neutral);
